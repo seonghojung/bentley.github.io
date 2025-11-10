@@ -13,6 +13,7 @@
 
 ```sh
 /
+├── .nojekyll # Jekyll 비활성화 (필수!)
 ├── index.html # 메인 페이지 (게시글 목록)
 ├── post.html # 게시글 상세 페이지
 ├── css/
