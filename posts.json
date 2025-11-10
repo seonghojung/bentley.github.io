@@ -3,16 +3,38 @@
     "file": "ai-news-trends-2025.md",
     "title": "2025년 최신 AI 뉴스 트렌드: 에이전트, 제조업 혁신, 그리고 새로운 도전",
     "date": "2025-11-10",
-    "tags": ["AI", "인공지능", "트렌드", "기술"],
+    "tags": [
+      "AI",
+      "인공지능",
+      "트렌드",
+      "기술"
+    ],
     "category": "Technology",
     "description": "2025년 하반기 AI 산업의 주요 트렌드와 혁신 사례를 살펴봅니다. AI 에이전트, 제조업 혁신, 인프라 투자, 그리고 새로운 도전 과제들을 정리했습니다.",
     "excerpt": "2025년 최신 AI 뉴스 트렌드: 에이전트, 제조업 혁신, 그리고 새로운 도전 2025년은 인공지능(AI) 기술이 본격적으로 산업 전반에 확산되며 새로운 전환점을 맞이한 해입니다. 최근 발표된 보고서와 뉴스를 통해 확인할 수 있는 주요 트렌드와 혁신 사례를 정리해보겠습니다. AI 에이전트의 부상 McKinsey & Company의 최신 보고서에 따르면, 거의 모든 조직이 AI를 사용하고 있으며, 특히 AI 에이전트(AI Agents)에 대한 관심이 높아지고 있습니다. 조사 결과, 응답자의 62%가 자신의 조직에서 최소한 AI 에이..."
   },
   {
+    "file": "cursor-ide-october-2025-news.md",
+    "title": "2025년 10월 Cursor IDE 주요 소식: 자체 코딩 모델과 멀티 에이전트 인터페이스",
+    "date": "2025-11-10",
+    "tags": [
+      "Cursor",
+      "IDE",
+      "AI",
+      "개발도구"
+    ],
+    "category": "Development",
+    "description": "2025년 10월 Cursor IDE의 주요 업데이트 소식을 정리했습니다. Cursor 2.0의 자체 코딩 모델 도입과 멀티 에이전트 인터페이스 등 혁신적인 기능들을 살펴봅니다.",
+    "excerpt": "2025년 10월 Cursor IDE 주요 소식: 자체 코딩 모델과 멀티 에이전트 인터페이스 2025년 10월, Cursor는 개발자 커뮤니티에 큰 화제를 불러일으킨 중요한 발표를 했습니다. Cursor 2.0 버전과 함께 처음으로 자체 코딩 모델을 도입하고, 멀티 에이전트 인터페이스를 선보였습니다. 이번 업데이트는 AI 기반 개발 도구의 새로운 지평을 열었다는 평가를 받고 있습니다. Cursor 2.0의 주요 변화 자체 코딩 모델의 등장 Cursor는 이번에 처음으로 경쟁력 있는 자체 코딩 모델을 도입했습니다. 지금까지 Curso..."
+  },
+  {
     "file": "example.md",
     "title": "첫 번째 게시글",
     "date": "2025-01-26",
-    "tags": ["JavaScript", "Web"],
+    "tags": [
+      "JavaScript",
+      "Web"
+    ],
     "category": "Development",
     "description": "GitHub Pages 블로그의 첫 번째 예시 게시글입니다.",
     "excerpt": "첫 번째 게시글 이것은 GitHub Pages 정적 블로그의 예시 게시글입니다. 소개 이 블로그는 다음과 같은 기능을 제공합니다: - 마크다운 기반 게시글 작성 - 다크/라이트 모드 지원 - 태그 및 카테고리 필터링 - 검색 기능 - 코드 하이라이팅 - Giscus 댓글 시스템 코드 예시 다음은 JavaScript 코드 예시입니다: ``javascript // @ 예시 함수 function greet(name) {   return \"Hello, \" + name + \"!\"; } console.log(greet(\"World\")); ` ..."
