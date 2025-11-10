@@ -1,0 +1,15 @@
+{
+  "name": "bentley-github-io",
+  "version": "1.0.0",
+  "description": "Bentley's GitHub Pages 블로그",
+  "scripts": {
+    "generate-posts": "node generate-posts.js"
+  },
+  "keywords": [
+    "blog",
+    "github-pages"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
