@@ -157,10 +157,10 @@
       // - Giscus 스크립트 생성
       const script = document.createElement("script");
       script.src = "https://giscus.app/client.js";
-      script.setAttribute("data-repo", "{your_github_username}/{your_github_username}.github.io");
-      script.setAttribute("data-repo-id", "YOUR_REPO_ID");
+      script.setAttribute("data-repo", "seonghojung/bentley.github.io");
+      script.setAttribute("data-repo-id", "R_kgDOQSg8iA");
       script.setAttribute("data-category", "General");
-      script.setAttribute("data-category-id", "YOUR_CATEGORY_ID");
+      script.setAttribute("data-category-id", "DIC_kwDOQSg8iM4CxnwT");
       script.setAttribute("data-mapping", "pathname");
       script.setAttribute("data-strict", "0");
       script.setAttribute("data-reactions-enabled", "1");
@@ -194,7 +194,7 @@
       const categoryHtml = category ? '<span class="post-category">' + category + "</span>" : "";
 
       // - 페이지 제목 업데이트
-      document.title = title + " - 블로그";
+      document.title = title + " - Bentley's 블로그";
 
       // - 게시글 HTML 생성
       const postHtml = (
